@@ -25,7 +25,7 @@ You will build a simple screen which contains a central interface component. You
 4.  decrypt the encrypted string via a simple button labeled "decrypt"
 5.  display the decrypted string
 
-**Be sure to `yarn add` the XQ Javascript SDK to the project. This is the only required dependency not included with this project boilerplate.**
+**Be sure to add the XQ Javascript SDK to the project via `yarn add`. This is the only required dependency not included with this project boilerplate.**
 
 Before using any of the services from the XQ Javscript SDK, you will need to ensure to either use [Authorize](https://github.com/xqmsg/jssdk-core#authorization) _or_ [AuthorizeAlias](https://github.com/xqmsg/jssdk-core#connect-to-an-alias-account). The differences between the two are as follows:
 

@@ -49,7 +49,7 @@ Before using any of the services from the XQ Javscript SDK, you will need to ens
 
 # Delivery Instructions
 
-Don't create a fork! Simply send us the link to your repository and be sure to make it public.
+Simply create a zip folder of this project and send it to jobs@xqmsg.com
 
 # Usage
 

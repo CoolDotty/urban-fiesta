@@ -38,14 +38,14 @@ Before using any of the services from the XQ Javscript SDK, you will need to ens
 - Use of the [XQ Javascript SDK](https://www.npmjs.com/package/@xqmsg/jssdk-core)
 - User can successfully encrypt a string, view the encrypted value, and successfully decrypt and view the decrypted string
 - Use of React Hooks
-- Some unit test coverage
+- Unit test coverage
 - A basic `README.md` (feel free to replace this one, or to rename it) explaining your implementation in simple terms
 
 # Bonus (optional)
 
 - Design - The app is functional and has stylistic flair! Colors, size, placement, sequencing, transitions, etc.
 - Documentation - code doesn't always have implicit meaning/explanation. Feel free to add relevant in-line documentation
-- Developer experience (DX) additions - can you add any utilities or tools to help the flow of development, especially if this project were passed to another member of your team?
+- Developer experience (DX) additions - are there any utilities or tools to help the flow of development, especially if this project were passed to another member of your team?
 
 # Delivery Instructions
 

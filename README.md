@@ -41,9 +41,7 @@ Before using any of the services from the XQ Javscript SDK, you will need to ens
 - Some unit test coverage
 - A basic `README.md` (feel free to replace this one, or to rename it) explaining your implementation in simple terms
 
-# Bonus
-
-These are totally optional but will generally be regarded as bonus points depending on implementation
+# Bonus (optional)
 
 - Design - The app is functional and has stylistic flair! Colors, size, placement, sequencing, transitions, etc.
 - Documentation - code doesn't always have implicit meaning/explanation. Feel free to add relevant in-line documentation

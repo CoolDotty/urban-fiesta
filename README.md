@@ -44,7 +44,7 @@ Before using any of the services from the XQ Javscript SDK, you will need to ens
 # Bonus (optional)
 
 - Design - The app is functional and has stylistic flair! Colors, size, placement, sequencing, transitions, etc.
-- Documentation - code doesn't always have implicit meaning/explanation. Feel free to add relevant in-line documentation
+- Documentation - code doesn't always have implicit meaning/explanation. Feel free to add relevant in-line documentation to communicate concepts and functionality of certain functions or snippets.
 - Developer experience (DX) additions - are there any utilities or tools to help the flow of development, especially if this project were passed to another member of your team?
 
 # Delivery Instructions

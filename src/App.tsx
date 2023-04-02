@@ -63,6 +63,7 @@ const App: React.FC = () => {
         <div>
           <TextInput
             placeholder="guy@email.com"
+            value={email}
             onChange={(e: React.ChangeEvent<HTMLInputElement>) => {setEmail(e.target.value)}}
           />
           <Button
@@ -77,6 +78,7 @@ const App: React.FC = () => {
       
         <TextInput 
           placeholder="123456"
+          value={magicCode}
           onChange={(e: React.ChangeEvent<HTMLInputElement>) => {setMagicCode(e.target.value)}} 
         />
         <Button
@@ -96,6 +98,7 @@ const App: React.FC = () => {
             <div>
               <TextInput
                 placeholder="jim@email.com"
+                value={recipient}
                 onChange={(e: React.ChangeEvent<HTMLInputElement>) => {
                   setRecipient(e.target.value);
                 }}
@@ -103,6 +106,7 @@ const App: React.FC = () => {
               <TextArea
                 placeholder="Hello!"
                 style={{ display: 'block' }}
+                value={message}
                 onChange={(e: React.ChangeEvent<HTMLTextAreaElement>) => {setMessage(e.target.value)}} 
               />
               <Button
@@ -118,6 +122,7 @@ const App: React.FC = () => {
             <legend>Decrypt</legend>
             <TextInput
               placeholder="Locator Key"
+              value={locatorKey}
               onChange={(e: React.ChangeEvent<HTMLInputElement>) => {
                 setLocatorKey(e.target.value);
               }}
@@ -125,6 +130,7 @@ const App: React.FC = () => {
             <TextArea
               placeholder="asdfdafg="
               style={{ display: 'block' }}
+              value={encoded}
               onChange={(e: React.ChangeEvent<HTMLTextAreaElement>) => {setEncoded(e.target.value)}} 
             />
             <Button

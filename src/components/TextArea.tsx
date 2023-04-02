@@ -1,7 +1,7 @@
 import React from "react";
 
 
-interface TextAreaProps extends React.HTMLAttributes<HTMLTextAreaElement> {
+interface TextAreaProps extends React.TextareaHTMLAttributes<HTMLTextAreaElement> {
   
 }
 
